@@ -35,8 +35,9 @@ The app helps analyze financial transaction data, identify suspicious activity, 
 ```bash
 git clone https://github.com/your-username/financial-fraud-detection.git
 cd financial-fraud-detection
-. Install dependencies
+
+###  2. Install dependencies
 pip install -r requirements.txt
 
-3. Run the Streamlit app
+### 3. Run the Streamlit app
 streamlit run streamlit_app.py
